@@ -1,16 +1,11 @@
-# news_app
+# News App In Flutter
 
-A new Flutter project.
+A Simple News Application To View Latest News Of Different categories Like Sports , Buisness , Entertainment etc.
 
-## Getting Started
+NOTE: To run the app for own project , get an apikey from newsapi.org and paste it in news_app/lib/helper/news.dart.
 
-This project is a starting point for a Flutter application.
+# Screenshots:
+![image](https://github.com/Mohammed-Shabeer777/News-App-In-FlutterDart/assets/84914407/0628a21d-207f-4442-b200-e7ad51f3dd9f)
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
