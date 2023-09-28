@@ -36,8 +36,8 @@ class News {
 
 class CategoryNewsClass {
   List<ArticleModel> news = [];
-  String apikey = '';
   //TODO: Paste api key here as well
+  String apikey = '';
   Future<void> getNews({required String type}) async {
     String url =
         'https://newsapi.org/v2/top-headlines?country=in&category=$type&apiKey=$apikey';
