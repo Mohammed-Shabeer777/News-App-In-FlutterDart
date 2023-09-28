@@ -7,5 +7,9 @@ NOTE: To run the app for own project , get an apikey from newsapi.org and paste 
 # Screenshot:
 ![image](https://github.com/Mohammed-Shabeer777/News-App-In-FlutterDart/assets/84914407/0628a21d-207f-4442-b200-e7ad51f3dd9f)
 
+#Video Demo 
+![riyal](https://github.com/Mohammed-Shabeer777/News-App-In-FlutterDart/assets/84914407/e2498e9d-05dc-4843-bdee-841040ca0d10)
+
+
 
 
